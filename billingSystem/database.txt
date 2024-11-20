@@ -1,0 +1,3 @@
+ 101 WPurifier 12000 5
+ 102 Laptop-v3 50000 5
+ 103 Comforter 2500 2
